@@ -1,0 +1,124 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.navback{
+    height:70px;
+    background-color: rgb(228, 228, 228);
+    box-shadow: 0px 5px 5px rgb(204, 204, 204);
+    align-items: center;
+}
+
+.sec {
+    margin-right: 70px;
+    float: right;
+    
+    margin-top: 12px;
+    
+}
+
+
+
+.logo{
+    height: 60px;
+    display: inline-block;
+    margin-left:60px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.logo img {
+    float:left;
+    height: 50px;
+    
+
+    
+}
+
+.first {
+    background-color: rgb(228, 228, 228);
+    color: #252424;
+    float: left;
+    margin-right: 0px;
+    height: 40px;
+    line-height: 17px;
+    width: 100px;
+    
+}
+
+.second {
+    background-color: rgb(228, 228, 228);
+    color: #252424;
+    float: left;
+    margin-right: 8px;
+    height: 40px;
+    line-height: 17px;
+    width: 100px;
+    
+}
+
+.third {
+    background-color: rgb(228, 228, 228);
+    color: #252424;
+    margin-right: 20px;
+    float: left;
+    height: 40px;
+    line-height: 17px;
+    width: 100px;
+   
+    
+}
+
+.forth {
+    background-color:rgb(228, 228, 228);
+    color: #252424;
+    margin-right: 0px;
+    float: left;
+    height: 40px;
+    line-height: 17px;
+    width: 100px;
+    
+
+
+}
+
+.first:hover{
+    background-color:#252424;
+    box-shadow:0px 5px 5px rgb(204, 204, 204);
+    color:white;
+    cursor:pointer;
+}
+
+.second:hover{
+    background-color:#252424;
+    box-shadow:0px 5px 5px rgb(204, 204, 204);
+    color:white;
+    cursor:pointer;
+}
+
+.third:hover{
+    background-color:#252424;
+    box-shadow:0p1x 5px 5px rgb(204, 204, 204);
+    color:white;
+    cursor:pointer;
+}
+
+.forth:hover{
+    background-color:#252424;
+    box-shadow:0px 5px 5px rgb(204, 204, 204);
+    color:white;
+    cursor:pointer;
+}
+
+
+
+h1 {
+
+    font-family: 'poppins';
+    font-size: 17px;
+    font-weight: 500;
+    text-align: center;
+
+}
